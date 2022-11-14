@@ -3,3 +3,8 @@ train-images-idx3-ubyte
 train-images-idx3-ubyte.gz
 train-labels-idx1-ubyte
 train-labels-idx1-ubyte.gz
+.DS_Store
+t10k-images-idx3-ubyte
+t10k-labels-idx1-ubyte
+.ipynb_checkpoints/digit-recognizer-svc-cnn-checkpoint.ipynb
+.ipynb_checkpoints/classify_new_handwritten_digits-checkpoint.ipynb
